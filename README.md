@@ -6,6 +6,13 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
+**Table**
+| Column 1 | Column 2 | Column 3 |
+| ---------| --------:|---------:|
+|   row    |          |          |
+|          |   row    |          |
+|          |          |   row    |
+
 ## Getting Started
 
 ### Dependencies
